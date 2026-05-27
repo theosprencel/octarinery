@@ -21,10 +21,9 @@ AI Assistance: false
 Aliases: How to Use Folders, Guide to Using Folders
 ---
 
-
 # Folders Guide
 
-My personal folder system started with the PARA Method ( [[5. Archive/What is the PARA Method]]) but I adapted it a little bit for what suits my workflows, use cases and how I tend to think about things. This is a brief overview of the folders and quick guide to using them.
+My personal folder system started with the PARA Method ( [[5. Archive/What is the PARA Method]] ) but I adapted it a little bit for what suits my workflows, use cases and how I tend to think about things. This is a brief overview of the folders and quick guide to using them.
 
 <!--octarine-table-cols:137,119,233,0,0-->
 | Folder | Alias(es) | Use It For | Do Not Use It For | Comments |
