@@ -1,3 +1,4 @@
 # Style Guide: Majestic Mesh
 
-Bless the 
+> [!TIP]
+> Bless the mesh, and mind how she moves.
