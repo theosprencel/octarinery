@@ -1,4 +1,4 @@
 # Style Guide: Majestic Mesh
 
 > [!TIP]
-> Bless this wretched mesh, for when it moves, surely so will you. The question is: Will you know when the dance is afoot?
+> Bless this wretched mesh, for when it moves, surely so will you. The question is: Do you move 
