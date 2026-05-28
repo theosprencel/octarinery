@@ -17,7 +17,7 @@ Tags:
 AI Assistance: false
 ---
 
-# What Is the Inbox Folder
+# How to use the "Inbox" folder
 
 Similar to a quick capture or “brain dump” folder, the **Inbox** folder is for quick notes that are not ready to be processed, filed and/or categorized more defnitively.
 
