@@ -15,7 +15,14 @@ Tags:
   - inbox-definition
   - folder-definition
 AI Assistance: false
+Word Count: 230
+Due Date: '2026-04-10'
+Published: false
+aliases:
+  - How to Use Folders
+  - Guide to Using Folders
 ---
+
 
 # How to use the "Inbox" folder
 
