@@ -1,3 +1,18 @@
+---
+oct.type: a3eer3826p3rap875rrntm64
+Title: ''
+Aliases: ''
+Description: ''
+Author: ''
+Created Date: ''
+Last Edited: ''
+AI Assistance: false
+Format: ''
+Status: ''
+oct.related: ''
+Tags: ''
+---
+
 # Style Guide: Majestic Mesh
 
 > [!TIP]
