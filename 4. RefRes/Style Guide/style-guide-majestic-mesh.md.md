@@ -1,6 +1,6 @@
 ---
 oct.type: a3eer3826p3rap875rrntm64
-Title: ''
+Title: 'Style Guide: Majestic Mesh'
 Aliases: ''
 Description: ''
 Author: ''
@@ -12,6 +12,12 @@ Status: ''
 oct.related: ''
 Tags: ''
 ---
+
+
+
+
+
+
 
 # Style Guide: Majestic Mesh
 
