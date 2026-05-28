@@ -2,16 +2,19 @@
 oct.type: a3eer3826p3rap875rrntm64
 Title: 'Style Guide: Majestic Mesh'
 Aliases: ''
-Description: ''
-Author: ''
+Description: >-
+  The design aesthetic being followed to build an online presence is called
+  Majestic Mesh.
+Author: Theodore Sprencel
 Created Date: ''
 Last Edited: ''
 AI Assistance: false
-Format: ''
+Format: Short Notes
 Status: ''
 oct.related: ''
-Tags: ''
+Tags: unsorted
 ---
+
 
 
 
